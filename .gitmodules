@@ -1,9 +1,13 @@
-[submodule "Plugins/UROSBridge"]
-	path = Plugins/UROSBridge
-	url = https://github.com/robcog-iai/UROSBridge.git
+
 [submodule "Plugins/UE4_GPUPointCloudRenderer"]
 	path = Plugins/UE4_GPUPointCloudRenderer
 	url = https://github.com/ValentinKraft/UE4_GPUPointCloudRenderer.git
 [submodule "Plugins/UDisplayTypes"]
 	path = Plugins/UDisplayTypes
 	url = https://github.com/bjoernveit/UDisplayTypes.git
+[submodule "Plugins/UUtils"]
+	path = Plugins/UUtils
+	url = https://github.com/robcog-iai/UUtils.git
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = https://github.com/bjoernveit/UROSBridge.git
