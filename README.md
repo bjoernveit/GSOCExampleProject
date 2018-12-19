@@ -1,5 +1,5 @@
 # GSOCExampleProject
-This is an example project for the [UDisplayTypes](https://github.com/robcog-iai/UDisplayTypes) repository. The plugin and all the other needed plugins are already set up in an unreal project.
+This is an example project for the [UDisplayTypes](https://github.com/robcog-iai/UDisplayTypes/tree/gsoc18) repository. The plugin and all the other needed plugins are already set up in an unreal project.
 
 ### Installation 
 Clone this repository with:
